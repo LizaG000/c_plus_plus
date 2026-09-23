@@ -87,3 +87,9 @@ git add .
 git commit -m "какой-то комментарий"
 git push
 ```
+
+Запуск файла с++
+```bash
+g++ one.cpp -o one.exe
+.\one.exe
+```
